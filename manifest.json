@@ -1,0 +1,55 @@
+{
+  "generated_utc": "2026-08-20T11:38:58+00:00",
+  "source_repo": "git@github.com:nn139159/ThesisResearch.git",
+  "source_commit": "436e0b6551a673453db032325e7c96adedf777d2-dirty",
+  "figures": {
+    "fig10_turn_threshold_sensitivity.png": {
+      "sha256": "01693d27cab2ca25e6ffe10468410041cb897da0f234bed4efd0d90edf1f48ba",
+      "bytes": 118988
+    },
+    "fig11_kvr_mu_sensitivity.png": {
+      "sha256": "0445b5fb8380da523b1ab6b2eb132fd76379eb9aa964fbbf0af652a69ce46528",
+      "bytes": 100463
+    },
+    "fig12_clic_baseline_decomposition.png": {
+      "sha256": "b2ee9de76e6f8d37cb6944c8313ff30479345836ed818916bedcd3ec4fe72777",
+      "bytes": 128392
+    },
+    "fig1_decoupling_case_591dce37.png": {
+      "sha256": "88af5ad93387d85eac5d130b2c90edfdd37c88db4152d6e28ad80fb149e751ea",
+      "bytes": 121504
+    },
+    "fig2_ablation_v2.png": {
+      "sha256": "f4ff2cded7eaa1dce5c84465cf53577fd22a95d4a0c5805116f5a514f58f19cd",
+      "bytes": 148442
+    },
+    "fig3_nav_counterfactual.png": {
+      "sha256": "097b70309395d5c2d4cbad9f5774632ce80ae52596dd58108539548b9943fbdd",
+      "bytes": 119636
+    },
+    "fig4_stratified_lad.png": {
+      "sha256": "196dea6daef85a43c5329edd17c76085cc3ad40438b636a9b1ed285ddfd552d7",
+      "bytes": 76884
+    },
+    "fig5_no_driving_harm.png": {
+      "sha256": "d40750a7d6863b0c2355b6280e3d7dffe013d90ae80b4c1bc1cb183e95c61a43",
+      "bytes": 134627
+    },
+    "fig6_coding_sensitivity.png": {
+      "sha256": "545b2adec2b9f346a0da11e8daffd65a0e01b242fa529f5e848cd5a96d89ce52",
+      "bytes": 69369
+    },
+    "fig7_ablation_not_specific.png": {
+      "sha256": "00ec4796a226192c017b90c63231d5c73d46998b3f01b2fbe5e9f71abd9bbeb5",
+      "bytes": 129818
+    },
+    "fig8_nav_dose_response.png": {
+      "sha256": "3ab6db0a1c123e3acb02b3093e79282e1638459c338665dda9c4785a9fcbed01",
+      "bytes": 139236
+    },
+    "fig9_architecture_corrected.png": {
+      "sha256": "8deef5b52a6fc19564e985c952d1ca3d387dcb57ec2b6e7dbb672400f5de320b",
+      "bytes": 160219
+    }
+  }
+}
