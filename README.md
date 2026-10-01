@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/<user>/<repo>/<commit-sha>/figures/<name>.png
 
 | 檔名 | 大小 |
 |---|---|
-| `fig10_turn_threshold_sensitivity.png` | 116 KB |
+| `fig10_turn_threshold_sensitivity.png` | 117 KB |
 | `fig11_kvr_mu_sensitivity.png` | 98 KB |
 | `fig12_clic_baseline_decomposition.png` | 125 KB |
 | `fig1_decoupling_case_591dce37.png` | 118 KB |
