@@ -37,11 +37,11 @@ https://raw.githubusercontent.com/<user>/<repo>/<commit-sha>/figures/<name>.png
 | `fig11_kvr_mu_sensitivity.png` | 98 KB |
 | `fig12_clic_baseline_decomposition.png` | 125 KB |
 | `fig1_decoupling_case_591dce37.png` | 118 KB |
-| `fig2_ablation_v2.png` | 144 KB |
+| `fig2_ablation_v2.png` | 150 KB |
 | `fig3_nav_counterfactual.png` | 116 KB |
 | `fig4_stratified_lad.png` | 75 KB |
 | `fig5_no_driving_harm.png` | 131 KB |
 | `fig6_coding_sensitivity.png` | 67 KB |
-| `fig7_ablation_not_specific.png` | 126 KB |
+| `fig7_ablation_not_specific.png` | 128 KB |
 | `fig8_nav_dose_response.png` | 135 KB |
 | `fig9_architecture_corrected.png` | 156 KB |

@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-10-01T16:12:18+00:00",
+  "generated_utc": "2026-10-12T14:52:25+00:00",
   "source_repo": "git@github.com:nn139159/ThesisResearch.git",
-  "source_commit": "778555e09aaac3c1a1dcc4b4183d4e75e3f99c19-dirty",
+  "source_commit": "af37fef4370d80140528e3347ffcc9964ca82466",
   "figures": {
     "fig10_turn_threshold_sensitivity.png": {
       "sha256": "f0a4ab796f2d9ab31142c10903139575c72415f3ff48fd876e94acddc53998dd",
@@ -20,8 +20,8 @@
       "bytes": 121504
     },
     "fig2_ablation_v2.png": {
-      "sha256": "f4ff2cded7eaa1dce5c84465cf53577fd22a95d4a0c5805116f5a514f58f19cd",
-      "bytes": 148442
+      "sha256": "baff3053051f42a592c0107ac07db7c1bd4070c94352608c35da96f6fb84842a",
+      "bytes": 154345
     },
     "fig3_nav_counterfactual.png": {
       "sha256": "097b70309395d5c2d4cbad9f5774632ce80ae52596dd58108539548b9943fbdd",
@@ -40,8 +40,8 @@
       "bytes": 69369
     },
     "fig7_ablation_not_specific.png": {
-      "sha256": "00ec4796a226192c017b90c63231d5c73d46998b3f01b2fbe5e9f71abd9bbeb5",
-      "bytes": 129818
+      "sha256": "67a48dc45e645fbb151838e6836aa3295466b428b2131da2f93f3997a7e7c1c7",
+      "bytes": 131422
     },
     "fig8_nav_dose_response.png": {
       "sha256": "3ab6db0a1c123e3acb02b3093e79282e1638459c338665dda9c4785a9fcbed01",
