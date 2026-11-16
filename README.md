@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/<user>/<repo>/<commit-sha>/figures/<name>.png
 
 ## 內容說明
 
-全部 13 張圖均由 `make_figures.py` 以 matplotlib 依**衍生統計量**
+全部 19 張圖均由 `make_figures.py` 以 matplotlib 依**衍生統計量**
 繪製，**不含 NVIDIA PhysicalAI-AV 資料集（gated）的任何原始影像**。
 產生時已自動檢查繪圖腳本不含 `imshow` / `imread`。
 
@@ -37,6 +37,12 @@ https://raw.githubusercontent.com/<user>/<repo>/<commit-sha>/figures/<name>.png
 | `fig11_kvr_mu_sensitivity.png` | 98 KB |
 | `fig12_clic_baseline_decomposition.png` | 125 KB |
 | `fig13_cross_model_summary.png` | 172 KB |
+| `fig14_intervention_flow.png` | 111 KB |
+| `fig15_alpamayo_interventions.png` | 121 KB |
+| `fig16_closed_loop.png` | 131 KB |
+| `fig17_content_by_model.png` | 67 KB |
+| `fig18_dissociation.png` | 96 KB |
+| `fig19_cross_check.png` | 78 KB |
 | `fig1_decoupling_case_591dce37.png` | 118 KB |
 | `fig2_ablation_v2.png` | 150 KB |
 | `fig3_nav_counterfactual.png` | 116 KB |

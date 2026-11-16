@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-10-20T13:57:29+00:00",
+  "generated_utc": "2026-11-16T15:47:53+00:00",
   "source_repo": "git@github.com:nn139159/ThesisResearch.git",
-  "source_commit": "8f8c2875ca4e3cf6484dfa9b8e3d5037dd76b90c-dirty",
+  "source_commit": "a937db57fae3329a9a09b4fc0e14f66da9ca555e-dirty",
   "figures": {
     "fig10_turn_threshold_sensitivity.png": {
       "sha256": "f0a4ab796f2d9ab31142c10903139575c72415f3ff48fd876e94acddc53998dd",
@@ -18,6 +18,30 @@
     "fig13_cross_model_summary.png": {
       "sha256": "2c2ace0ef61989e11ec2e2af62f454caaa12d0f063416dcd070983f66f1c5b9d",
       "bytes": 176821
+    },
+    "fig14_intervention_flow.png": {
+      "sha256": "43053b0477ab9768c37fdff67258e4c42cf626f80b26375173e09804017c21c8",
+      "bytes": 114222
+    },
+    "fig15_alpamayo_interventions.png": {
+      "sha256": "737502931e3d28fcb2f7b8c4098509682c872d5efb36be2f2934c31f40f20956",
+      "bytes": 124275
+    },
+    "fig16_closed_loop.png": {
+      "sha256": "4c69c1eb17c5bc9cd4bdf3cc9cc16e61ccef4d5df2f81a56565e670420bcffaa",
+      "bytes": 134263
+    },
+    "fig17_content_by_model.png": {
+      "sha256": "e9d40775b0662ac25a8b6ce6e25b9117c3de4d7d368c88b65ff57d7b3837c4cd",
+      "bytes": 68912
+    },
+    "fig18_dissociation.png": {
+      "sha256": "74e1bee764413e8946a323942ce84552c5c894c1e25efcab64d576db57608dd6",
+      "bytes": 99283
+    },
+    "fig19_cross_check.png": {
+      "sha256": "2672b2751a1452d87687327e4c30305cf57a164d9ec2217c909b25c7a3038014",
+      "bytes": 80457
     },
     "fig1_decoupling_case_591dce37.png": {
       "sha256": "88af5ad93387d85eac5d130b2c90edfdd37c88db4152d6e28ad80fb149e751ea",
